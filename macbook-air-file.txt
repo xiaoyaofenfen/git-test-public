@@ -1,0 +1,2 @@
+This is a file created by liangfen from Macbook Air to test git function.
+Writed by liangfen in 2014/09/08
